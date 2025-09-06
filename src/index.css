@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #6155F5;
+  --color-primary-hover: #7A6EFF;
+  --color-secondary: #26A4FF;
+  --color-textp: #25324B;
+  --color-bgp: #F8F8FD;
+  --color-footer: #202430;
+}
+
+@layer base {
+  body {
+    @apply px-8 md:px-32 bg-bgp;
+  }
+}
+
+html, body { height: 100%; }
+
+html {
+  scroll-behavior: smooth;
+}

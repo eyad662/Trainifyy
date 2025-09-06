@@ -1,0 +1,530 @@
+{
+  "internships": [
+    {
+      "id": "1",
+      "companyLogo": "src/assets/revolut.png",
+      "title": "Frontend Developer Intern (React)",
+      "company": "Revolut",
+      "location": "Nasr City, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Work with React team to build new features.",
+      "skills": [
+        "React.js",
+        "JavaScript",
+        "CSS"
+      ]
+    },
+    {
+      "id": "2",
+      "companyLogo": "src/assets/amazon.png",
+      "title": "Backend Developer Intern (Node.js)",
+      "company": "Amazon",
+      "location": "New Cairo",
+      "type": "Hybrid",
+      "duration": "4 months",
+      "description": "Work on backend APIs using Node.js and Express.",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "3",
+      "companyLogo": "src/assets/samsung.png",
+      "title": "Mobile Developer Intern (Flutter)",
+      "company": "Samsung",
+      "location": "Maadi, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Build mobile apps with Flutter and Dart.",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ]
+    },
+    {
+      "id": "4",
+      "companyLogo": "src/assets/nvidia.png",
+      "title": "Machine Learning Intern (TensorFlow)",
+      "company": "NVIDIA",
+      "location": "6th of October, Giza",
+      "type": "Remote",
+      "duration": "4 months",
+      "description": "Assist in ML model building with TensorFlow.",
+      "skills": [
+        "TensorFlow",
+        "Python",
+        "NumPy"
+      ]
+    },
+    {
+      "id": "5",
+      "companyLogo": "src/assets/cisco.png",
+      "title": "Cyber Security Intern (Kali Linux)",
+      "company": "Cisco",
+      "location": "Heliopolis, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Assist in penetration testing using Kali Linux.",
+      "skills": [
+        "Kali Linux",
+        "Linux",
+        "Networking"
+      ]
+    },
+    {
+      "id": "6",
+      "companyLogo": "src/assets/figma.png",
+      "title": "UI/UX Intern (Figma)",
+      "company": "Figma",
+      "location": "Remote",
+      "type": "Remote",
+      "duration": "3 months",
+      "description": "Design user interfaces with Figma.",
+      "skills": [
+        "Figma",
+        "UI Design",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": "7",
+      "companyLogo": "src/assets/photoshop.png",
+      "title": "Graphic Design Intern (Photoshop)",
+      "company": "Adobe",
+      "location": "Smart Village, Giza",
+      "type": "Hybrid",
+      "duration": "3 months",
+      "description": "Design graphics and posters with Photoshop.",
+      "skills": [
+        "Adobe Photoshop",
+        "Photo Editing",
+        "Graphic Design"
+      ]
+    },
+    {
+      "id": "8",
+      "companyLogo": "src/assets/premiere.png",
+      "title": "Video Editing Intern (Premiere Pro)",
+      "company": "Adobe Premiere",
+      "location": "Alexandria",
+      "type": "On site",
+      "duration": "4 months",
+      "description": "Edit videos with Adobe Premiere Pro.",
+      "skills": [
+        "Premiere Pro",
+        "Video Editing",
+        "Storytelling"
+      ]
+    },
+    {
+      "id": "9",
+      "companyLogo": "src/assets/google.png",
+      "title": "Frontend Developer Intern (Angular)",
+      "company": "Google",
+      "location": "Dokki, Giza",
+      "type": "Remote",
+      "duration": "2 months",
+      "description": "Support the frontend team using Angular.",
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "10",
+      "companyLogo": "src/assets/booking.png",
+      "title": "Backend Developer Intern (Django)",
+      "company": "Booking.com",
+      "location": "Nasr City, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Assist backend team with Django REST APIs.",
+      "skills": [
+        "Django",
+        "Python",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "11",
+      "companyLogo": "src/assets/huawei.png",
+      "title": "Mobile Developer Intern (React Native)",
+      "company": "Huawei",
+      "location": "New Cairo",
+      "type": "Hybrid",
+      "duration": "4 months",
+      "description": "Work on cross-platform apps with React Native.",
+      "skills": [
+        "React Native",
+        "JavaScript",
+        "Redux"
+      ]
+    },
+    {
+      "id": "12",
+      "companyLogo": "src/assets/siemens.png",
+      "title": "Machine Learning Intern (PyTorch)",
+      "company": "Siemens",
+      "location": "Heliopolis, Cairo",
+      "type": "Remote",
+      "duration": "6 months",
+      "description": "Contribute to research projects using PyTorch.",
+      "skills": [
+        "PyTorch",
+        "Python",
+        "Pandas"
+      ]
+    },
+    {
+      "id": "13",
+      "companyLogo": "src/assets/fortinet.png",
+      "title": "Cyber Security Intern (Metasploit)",
+      "company": "Fortinet",
+      "location": "Smart Village, Giza",
+      "type": "Hybrid",
+      "duration": "4 months",
+      "description": "Support security testing with Metasploit.",
+      "skills": [
+        "Metasploit",
+        "Exploits",
+        "Pentesting"
+      ]
+    },
+    {
+      "id": "14",
+      "companyLogo": "src/assets/adobe.png",
+      "title": "UI/UX Intern (Adobe XD)",
+      "company": "Adobe",
+      "location": "6th of October, Giza",
+      "type": "On site",
+      "duration": "4 months",
+      "description": "Assist UI/UX team with Adobe XD projects.",
+      "skills": [
+        "Adobe XD",
+        "Wireframing",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": "15",
+      "companyLogo": "src/assets/illustrator.png",
+      "title": "Graphic Design Intern (Illustrator)",
+      "company": "Behance",
+      "location": "Nasr City, Cairo",
+      "type": "Hybrid",
+      "duration": "4 months",
+      "description": "Assist in creating illustrations with Illustrator.",
+      "skills": [
+        "Adobe Illustrator",
+        "Vector Art",
+        "Design"
+      ]
+    },
+    {
+      "id": "16",
+      "companyLogo": "src/assets/davinci.png",
+      "title": "Video Editing Intern (DaVinci Resolve)",
+      "company": "Blackmagic Design",
+      "location": "Remote",
+      "type": "Remote",
+      "duration": "3 months",
+      "description": "Work on color grading and editing with DaVinci Resolve.",
+      "skills": [
+        "DaVinci Resolve",
+        "Editing",
+        "Color Grading"
+      ]
+    },
+    {
+      "id": "17",
+      "companyLogo": "src/assets/microsoft.png",
+      "title": "Frontend Developer Intern (Vue)",
+      "company": "Microsoft",
+      "location": "Alexandria",
+      "type": "On site",
+      "duration": "4 months",
+      "description": "Assist in building Vue.js components for web apps.",
+      "skills": [
+        "Vue.js",
+        "JavaScript",
+        "CSS"
+      ]
+    },
+    {
+      "id": "18",
+      "companyLogo": "src/assets/oracle.png",
+      "title": "Backend Developer Intern (Spring Boot)",
+      "company": "Oracle",
+      "location": "New Cairo",
+      "type": "Remote",
+      "duration": "5 months",
+      "description": "Develop Java-based microservices with Spring Boot.",
+      "skills": [
+        "Spring Boot",
+        "Java",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "19",
+      "companyLogo": "src/assets/apple.png",
+      "title": "iOS Developer Intern (Swift)",
+      "company": "Apple",
+      "location": "Nasr City, Cairo",
+      "type": "On site",
+      "duration": "5 months",
+      "description": "Assist in building iOS apps using Swift.",
+      "skills": [
+        "Swift",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
+      "id": "20",
+      "companyLogo": "src/assets/facebook.png",
+      "title": "Machine Learning Intern (Scikit-learn)",
+      "company": "Facebook AI",
+      "location": "Remote",
+      "type": "Remote",
+      "duration": "3 months",
+      "description": "Work on data pipelines with Scikit-learn.",
+      "skills": [
+        "Scikit-learn",
+        "Python",
+        "Matplotlib"
+      ]
+    },
+    {
+      "id": "21",
+      "companyLogo": "src/assets/kaspersky.png",
+      "title": "Cyber Security Intern (Wireshark)",
+      "company": "Kaspersky",
+      "location": "Alexandria",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Analyze traffic with Wireshark for security threats.",
+      "skills": [
+        "Wireshark",
+        "Networking",
+        "TCP/IP"
+      ]
+    },
+    {
+      "id": "22",
+      "companyLogo": "src/assets/sketch.png",
+      "title": "UI/UX Intern (Sketch)",
+      "company": "Sketch",
+      "location": "Dokki, Giza",
+      "type": "Hybrid",
+      "duration": "3 months",
+      "description": "Work on Sketch prototypes and designs.",
+      "skills": [
+        "Sketch",
+        "UI Design",
+        "UX Research"
+      ]
+    },
+    {
+      "id": "23",
+      "companyLogo": "src/assets/coreldraw.png",
+      "title": "Graphic Design Intern (CorelDRAW)",
+      "company": "Corel",
+      "location": "New Cairo",
+      "type": "Remote",
+      "duration": "3 months",
+      "description": "Create designs with CorelDRAW.",
+      "skills": [
+        "CorelDRAW",
+        "Vector Design",
+        "Branding"
+      ]
+    },
+    {
+      "id": "24",
+      "companyLogo": "src/assets/meta.png",
+      "title": "Frontend Developer Intern (Next.js)",
+      "company": "Meta",
+      "location": "Smart Village, Giza",
+      "type": "Hybrid",
+      "duration": "6 months",
+      "description": "Develop SSR apps with Next.js.",
+      "skills": [
+        "Next.js",
+        "React.js",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "25",
+      "companyLogo": "src/assets/dell.png",
+      "title": "Backend Developer Intern (Laravel)",
+      "company": "Dell",
+      "location": "Nasr City, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Support Laravel projects and API development.",
+      "skills": [
+        "Laravel",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "26",
+      "companyLogo": "src/assets/vodafone.png",
+      "title": "Android Developer Intern (Kotlin)",
+      "company": "Vodafone",
+      "location": "Heliopolis, Cairo",
+      "type": "Remote",
+      "duration": "3 months",
+      "description": "Contribute to Android apps using Kotlin.",
+      "skills": [
+        "Kotlin",
+        "Android Studio",
+        "Jetpack Compose"
+      ]
+    },
+    {
+      "id": "27",
+      "companyLogo": "src/assets/tesla.png",
+      "title": "Machine Learning Intern (Keras)",
+      "company": "Tesla",
+      "location": "Smart Village, Giza",
+      "type": "On site",
+      "duration": "4 months",
+      "description": "Help in DL models using Keras.",
+      "skills": [
+        "Keras",
+        "Python",
+        "TensorFlow"
+      ]
+    },
+    {
+      "id": "28",
+      "companyLogo": "src/assets/ibm.png",
+      "title": "Cyber Security Intern (Burp Suite)",
+      "company": "IBM Security",
+      "location": "Remote",
+      "type": "Remote",
+      "duration": "5 months",
+      "description": "Assist in web security testing using Burp Suite.",
+      "skills": [
+        "Burp Suite",
+        "Web Security",
+        "OWASP"
+      ]
+    },
+    {
+      "id": "29",
+      "companyLogo": "src/assets/invision.png",
+      "title": "UI/UX Intern (InVision)",
+      "company": "InVision",
+      "location": "New Cairo",
+      "type": "Hybrid",
+      "duration": "6 months",
+      "description": "Contribute to UI/UX prototypes using InVision.",
+      "skills": [
+        "InVision",
+        "Prototyping",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": "30",
+      "companyLogo": "src/assets/intel.png",
+      "title": "Backend Developer Intern (.NET)",
+      "company": "Intel",
+      "location": "Alexandria",
+      "type": "On site",
+      "duration": "6 months",
+      "description": "Assist with backend applications in .NET.",
+      "skills": [
+        ".NET Core",
+        "C#",
+        "SQL Server"
+      ]
+    },
+    {
+      "id": "31",
+      "companyLogo": "src/assets/etisalat.png",
+      "title": "Mobile Developer Intern (Xamarin)",
+      "company": "Etisalat",
+      "location": "Nasr City, Cairo",
+      "type": "Hybrid",
+      "duration": "6 months",
+      "description": "Assist in Xamarin mobile app development.",
+      "skills": [
+        "Xamarin",
+        "C#",
+        "Visual Studio"
+      ]
+    },
+    {
+      "id": "32",
+      "companyLogo": "src/assets/openai.png",
+      "title": "Machine Learning Intern (Hugging Face)",
+      "company": "OpenAI",
+      "location": "Remote",
+      "type": "Remote",
+      "duration": "6 months",
+      "description": "Support NLP projects with Hugging Face models.",
+      "skills": [
+        "Transformers",
+        "Hugging Face",
+        "Python"
+      ]
+    },
+    {
+      "id": "33",
+      "companyLogo": "src/assets/splunk.png",
+      "title": "Cyber Security Intern (Splunk)",
+      "company": "Splunk",
+      "location": "New Cairo",
+      "type": "On site",
+      "duration": "6 months",
+      "description": "Monitor SIEM dashboards using Splunk.",
+      "skills": [
+        "Splunk",
+        "SIEM",
+        "Security Monitoring"
+      ]
+    },
+    {
+      "id": "34",
+      "companyLogo": "src/assets/capcut.png",
+      "title": "Reel Making Intern (CapCut)",
+      "company": "TikTok",
+      "location": "Nasr City, Cairo",
+      "type": "Hybrid",
+      "duration": "2 months",
+      "description": "Create reels and short-form content with CapCut.",
+      "skills": [
+        "CapCut",
+        "Content Creation",
+        "Social Media"
+      ]
+    },
+    {
+      "id": "35",
+      "companyLogo": "src/assets/meta.png",
+      "title": "Frontend Developer Intern (Svelte)",
+      "company": "Meta",
+      "location": "Heliopolis, Cairo",
+      "type": "On site",
+      "duration": "3 months",
+      "description": "Contribute to frontend projects using Svelte.",
+      "skills": [
+        "Svelte",
+        "JavaScript",
+        "CSS"
+      ]
+    }
+  ]
+}
