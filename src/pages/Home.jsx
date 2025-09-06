@@ -66,7 +66,7 @@ const { data, error, isLoading } = useGetInternshipsQuery('All');
       
       </div>
       <div>
-        <img src="src\assets\hero-home.png" alt="landing photo" className="sm:inline w-4/5 hidden" />
+        <img src={HeroImage} alt="landing photo" className="sm:inline w-4/5 hidden" />
       </div>
     </section>
 
